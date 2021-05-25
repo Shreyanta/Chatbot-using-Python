@@ -1,0 +1,1 @@
+This project is a begineer level tutorial for individuals interested to learn to build chatbots using Python. The bot is used for small talk, as well as to answer some customer queries. The libraries used in this project are NLTK and Chatterbot. Here, we’ll scratch the surface of Natural Language Processing and training custom chatbots.

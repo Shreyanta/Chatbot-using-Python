@@ -1,0 +1,6 @@
+OSError: [E050] Can't find model 'en'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory. 
+
+Step 1: Find your command prompt in the search panel and right click on it to "Run as administrator".
+Step 2: Copy paste this command in your terminal: python -m spacy download en
+
+This error rises when spacey 'en' model can't be loaded. Running the terminal as administrator often prevents issues that might rise as linking failed.
